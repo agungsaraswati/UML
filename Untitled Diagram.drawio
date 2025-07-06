@@ -215,17 +215,17 @@
         <mxCell id="pIxwQyYfcKhYZbTwnt9l-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1275" y="-3030" width="830" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="pIxwQyYfcKhYZbTwnt9l-110" value="Super Admin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1185" y="-2930.004347826087" width="160" height="149.91304347826087" as="geometry" />
+        <mxCell id="pIxwQyYfcKhYZbTwnt9l-110" value="SuperAdmin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1185" y="-2930.004347826087" width="160" height="145.91304347826087" as="geometry" />
         </mxCell>
         <mxCell id="pIxwQyYfcKhYZbTwnt9l-111" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- id: int&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- nama: string&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- email: string&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- password: string&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="pIxwQyYfcKhYZbTwnt9l-110" vertex="1">
-          <mxGeometry y="26" width="160" height="74" as="geometry" />
+          <mxGeometry y="26" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pIxwQyYfcKhYZbTwnt9l-112" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="pIxwQyYfcKhYZbTwnt9l-110" vertex="1">
-          <mxGeometry y="100" width="160" height="5.7043478260869565" as="geometry" />
+          <mxGeometry y="96" width="160" height="5.7043478260869565" as="geometry" />
         </mxCell>
         <mxCell id="pIxwQyYfcKhYZbTwnt9l-113" value="&lt;span style=&quot;background-color: initial;&quot;&gt;+ login()&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ kelolaDestinasiWisata()&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="pIxwQyYfcKhYZbTwnt9l-110" vertex="1">
-          <mxGeometry y="105.70434782608696" width="160" height="44.208695652173915" as="geometry" />
+          <mxGeometry y="101.70434782608696" width="160" height="44.208695652173915" as="geometry" />
         </mxCell>
         <mxCell id="pIxwQyYfcKhYZbTwnt9l-118" value="Wisatawan" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-715" y="-2915.8217391304347" width="190" height="83.04347826086956" as="geometry" />
